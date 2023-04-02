@@ -1,5 +1,4 @@
 # Terms and conditions
-<br>Terms and conditions for Xarxa
 <br>Thank you for considering Xarxa, an app developed by Lone Bills. By using Xarxa, you agree to the following terms and conditions:<br>
 <br>**1.  Data Storage:** Xarxa stores most user data locally on the user's device. Lone Bills does not store or have access to this data, except in cases where the user chooses to share it with Lone Bills. Lone Bills cannot be held responsible for any data loss, damage or misuse caused by the user or third parties.
 <br>**2.  User Conduct:** Users of Xarxa are expected to conduct themselves in a responsible and ethical manner. Users should not use Xarxa to engage in illegal or unethical activities. Any user engaging in such activities may be subject to legal action.
